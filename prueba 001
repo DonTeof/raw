@@ -1,5 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fox_Broadcasting_Company_logo_%282019%29.svg/245px-Fox_Broadcasting_Company_logo_%282019%29.svg.png" group-title="FOX",        
-http://ps3u.ga/m3u/Lista01160621/latinos/fox/index.m3u8
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Star_Channel#/media/Archivo:Star_Channel_2020.svg" group-title="STAR CHANEL", START CHANEL       
+http://ps3u.ga/m3u/Lista01160621/espana/fox/index.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="HBO", HBO FAMILY
+http://ps3u.ga/m3u/Lista01160621/latinos/hbofamily/index.m3u8
