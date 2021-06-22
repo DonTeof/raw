@@ -1,10 +1,50 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/Star_Channel#/media/Archivo:Star_Channel_2020.svg" group-title="STAR CHANEL", START CHANEL       
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="STAR CHANEL", START CHANEL       
 http://ps3u.ga/m3u/Lista01160621/espana/fox/index.m3u8
+
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="HBO", HBO FAMILY
 http://ps3u.ga/m3u/Lista01160621/latinos/hbofamily/index.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", BABY TV
+http://ps3u.ga/m3u/Lista02160621/babytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", BABY FIRST
+http://ps3u.ga/m3u/Lista02160621/babyfirts/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES",
+http://ps3u.ga/m3u/Lista02160621/bitme/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", BOOMERANG
+http://ps3u.ga/m3u/Lista02160621/boomerang/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", CARTOON
+http://ps3u.ga/m3u/Lista02160621/cartoon/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", DISNEY CHANEL 
+http://ps3u.ga/m3u/Lista02160621/disneych/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", DISNEY JR
+http://ps3u.ga/m3u/Lista02160621/disneyjr/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", DISNEY XD
+http://ps3u.ga/m3u/Lista02160621/disneyxd/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", DISCOVERY KIDS
+http://ps3u.ga/m3u/Lista02160621/dkids/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", NATGEO KIDS
+http://ps3u.ga/m3u/Lista02160621/natgeokids/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", NICK
+http://ps3u.ga/m3u/Lista02160621/nick/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="INFANTILES", NICK JR
+http://ps3u.ga/m3u/Lista02160621/nickjr/index.m3u8
