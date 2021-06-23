@@ -1,50 +1,230 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="STAR CHANEL", START CHANEL       
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/65/Star_Channel_2021.png" group-title="STAR CHANEL", STAR CHANEL       
 http://ps3u.ga/m3u/Lista01160621/espana/fox/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Star_Action_2020.svg" group-title="STAR CHANEL", STAR ACTION
+http://ps3u.ga/m3u/Lista01160621/latinos/foxaction/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/Star_Series_2021.png" group-title="STAR CHANEL", STAR SERIES
+http://ps3u.ga/m3u/Lista01160621/latinos/foxseries/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/70/Star_Fun_2020.svg" group-title="STAR CHANEL", STAR FUN
+http://ps3u.ga/m3u/Lista01160621/latinos/foxfamily/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/S/star-cinema-logo-DA286E4FA2-seeklogo.com.png" group-title="STAR CHANEL", STAR CINEMA
+http://ps3u.ga/m3u/Lista01160621/latinos/foxcinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Star_Comedy?file=Star_Comedy_2021.svg" group-title="STAR CHANEL", STAR COMEDY
+http://ps3u.ga/m3u/Lista01160621/latinos/foxcomedy/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.farandula.co/wp-content/uploads/2021/02/original_1613967339_STAR-CLASSICS-LOGO.jpg" group-title="STAR CHANEL", STAR CLASSICS
+http://ps3u.ga/m3u/Lista01160621/latinos/foxclassics/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/16/Star_Hits_2020.svg" group-title="STAR CHANEL", STAR HITS
+http://ps3u.ga/m3u/Lista01160621/latinos/foxmovies/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Star_Life_(Latinoam%C3%A9rica)?file=Star_Life_2021.svg" group-title="STAR CHANEL", STAR LIFE
+http://ps3u.ga/m3u/Lista01160621/latinos/foxlife/index.m3u8
 
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/HBO_Family_logo.png" group-title="HBO", HBO FAMILY
 http://ps3u.ga/m3u/Lista01160621/latinos/hbofamily/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/de/HBO_logo.svg" group-title="HBO", HBO 
+http://ps3u.ga/m3u/Lista01160621/latinos/hbo/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3b/HBO2_logo.png" group-title="HBO", HBO 2
+http://ps3u.ga/m3u/Lista01160621/latinos/hbo2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png" group-title="HBO", HBO PLUS
+http://ps3u.ga/m3u/Lista01160621/latinos/hboplus/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://es.wikipedia.org/wiki/HBO_Signature#/media/Archivo:HBO_Signature.svg" group-title="HBO", HBO SIGNATURE
+http://ps3u.ga/m3u/Lista01160621/latinos/hbosignature/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/fc/HBO_Xtreme.svg" group-title="HBO", HBO EXTREME
+http://ps3u.ga/m3u/Lista02160621/hboxtreme/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", BABY TV
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/BabyTV?file=Babytv.jpg" group-title="INFANTILES", BABY TV
 http://ps3u.ga/m3u/Lista02160621/babytv/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", BABY FIRST
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="INFANTILES", BABY FIRST
 http://ps3u.ga/m3u/Lista02160621/babyfirts/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES",
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2a/BitMelogo.png" group-title="INFANTILES", BITME 
 http://ps3u.ga/m3u/Lista02160621/bitme/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", BOOMERANG
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/-GVKVCBZ1ryg/YBsb5fRaNOI/AAAAAAAA_qk/6puCkYZaRUkrhUHzzMnHGL2CUMO94ij2ACK8BGAsYHg/s0/2021-02-03.png" group-title="INFANTILES", BOOMERANG
 http://ps3u.ga/m3u/Lista02160621/boomerang/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", CARTOON
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/40/Cartoon_network_modified_logo.PNG" group-title="INFANTILES", CARTOON
 http://ps3u.ga/m3u/Lista02160621/cartoon/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", DISNEY CHANEL 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Disney_Channel_Germany_Logo_2014.png" group-title="INFANTILES", DISNEY CHANEL 
 http://ps3u.ga/m3u/Lista02160621/disneych/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", DISNEY JR
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/03/Disney_Jr._logo.png" group-title="INFANTILES", DISNEY JR
 http://ps3u.ga/m3u/Lista02160621/disneyjr/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", DISNEY XD
+#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/Disney_XD?file=Disney_XD_2009.svg" group-title="INFANTILES", DISNEY XD
 http://ps3u.ga/m3u/Lista02160621/disneyxd/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", DISCOVERY KIDS
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Discovery_Kids_LA_2021_wordmark.png/revision/latest?cb=20210413030430&path-prefix=es" group-title="INFANTILES", DISCOVERY KIDS
 http://ps3u.ga/m3u/Lista02160621/dkids/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", NATGEO KIDS
+#EXTINF:-1 tvg-logo="https://png2.cleanpng.com/sh/5cd69546d98f1f5f75642431df5825d4/L0KzQYm3VME5N5ZxiZH0aYP2gLBuTf5ifJp0htN1LXfof7j5ggBpcZQyg9ttcz3vf7j2TfJwd5wyjtdsdHB1PbTvifxlNWZmfKlrYnTpSYnoUPY3NmE4SKsBNUG7QYa5VMA5P2g8Tag7NUKxgLBu/kisspng-national-geographic-kids-logo-book-vector-child-5ad7bbdf98a0f6.0309651815240877756252.png" group-title="INFANTILES", NATGEO KIDS
 http://ps3u.ga/m3u/Lista02160621/natgeokids/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", NICK
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d08395f39465da6fb3ec4/colorLogoPNG.png" group-title="INFANTILES", NICK
 http://ps3u.ga/m3u/Lista02160621/nick/index.m3u8
 
-#EXTINF:-1 tvg-logo="" group-title="INFANTILES", NICK JR
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d8d0ec7b0f7015fbe0a3bf7/colorLogoPNG.png" group-title="INFANTILES", NICK JR
 http://ps3u.ga/m3u/Lista02160621/nickjr/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.freepng.es/20180625/uei/kisspng-2018-kids-choice-awards-nickelodeon-travis-strike-nicktoons-5b31a14c58aa61.4419977515299792123632.jpg" group-title="INFANTILES", NICK TOONS
+http://ps3u.ga/m3u/Lista01160621/infantiles/nicktoons/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", MAX PRIME
+http://ps3u.ga/m3u/Lista01160621/latinos/maxprime/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", MAX LATINO
+http://ps3u.ga/m3u/Lista01160621/latinos/maxlatino/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", MAX UP
+http://ps3u.ga/m3u/Lista01160621/latinos/maxup/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES",GOLDEN
+http://ps3u.ga/m3u/Lista01160621/latinos/golden/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", GOLDEN PLUS
+http://ps3u.ga/m3u/Lista01160621/latinos/goldenplus/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", GONDEN EDGE
+http://ps3u.ga/m3u/Lista01160621/latinos/goldenedge/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", CINEMAX
+http://ps3u.ga/m3u/Lista01160621/latinos/cinemax/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", CINECANAL
+http://ps3u.ga/m3u/Lista01160621/latinos/cinecanal/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", TNT
+http://ps3u.ga/m3u/Lista01160621/latinos/tnt/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", TNT SERIES
+http://ps3u.ga/m3u/Lista01160621/latinos/tntseries/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", AXN
+http://ps3u.ga/m3u/Lista01160621/latinos/axn/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", AMC
+http://ps3u.ga/m3u/Lista01160621/latinos/amc/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", TCM
+http://ps3u.ga/m3u/Lista01160621/latinos/tcm/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", SYFY
+http://ps3u.ga/m3u/Lista01160621/latinos/syfy/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", FXM
+http://ps3u.ga/m3u/Lista01160621/latinos/fxm/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", FX
+http://ps3u.ga/m3u/Lista01160621/latinos/fx/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", SPACE
+http://ps3u.ga/m3u/Lista01160621/latinos/space/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", COMEDY CENTRAL
+http://ps3u.ga/m3u/Lista01160621/latinos/comedycentral/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", PARAMOUNT CHANEL
+http://ps3u.ga/m3u/Lista01160621/latinos/paramountchannel/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", SONY
+http://ps3u.ga/m3u/Lista01160621/latinos/sony/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", TBS
+http://ps3u.ga/m3u/Lista01160621/latinos/tbs/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", STUDIO UNIVERSAL
+http://ps3u.ga/m3u/Lista01160621/latinos/studiouniversal/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", UNIVERSAL CHANEL
+http://ps3u.ga/m3u/Lista01160621/latinos/universalchannel/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", WARNER
+http://ps3u.ga/m3u/Lista01160621/latinos/warner/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", DE PELICULAS
+http://ps3u.ga/m3u/Lista01160621/latinos/depelicula/index.m3u8
+    
+#EXTINF:-1 tvg-logo="" group-title="PELICULAS Y SERIES", DISTRITO COMEDIA
+http://ps3u.ga/m3u/Lista01160621/latinos/distritocomedia/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/directv-sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/directv-sports2/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/tnt-sports/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/fox-sports-premium/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/fox-sports1ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/fox-sports2ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/fox-sports3ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/fox-sports1mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/fox-sports2mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/fox-sports3mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/espn1ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/espn2ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/espn3ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/espn1mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/espn2mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/espn3mx/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/espn+ar/index.m3u8
+
+#EXTINF:-1 tvg-logo="" group-title="DEPORTES",
+http://ps3u.ga/m3u/Lista01160621/latinos/tyc/index.m3u8
