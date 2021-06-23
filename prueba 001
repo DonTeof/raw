@@ -50,8 +50,11 @@ http://ps3u.ga/m3u/Lista02160621/hboxtreme/index.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://logos.fandom.com/es/wiki/BabyTV?file=Babytv.jpg" group-title="INFANTILES", BABY TV
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/f9c5bd779f169992e1f8635bdcab1efa.png" group-title="INFANTILES", BABY TV
 http://ps3u.ga/m3u/Lista02160621/babytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/f9c5bd779f169992e1f8635bdcab1efa.png" group-title="INFANTILES", BABY TV opcion 2
+http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/488
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5ebac49ce4dc8b00078b23bc/colorLogoPNG.png" group-title="INFANTILES", BABY FIRST
 http://ps3u.ga/m3u/Lista02160621/babyfirts/index.m3u8
@@ -228,3 +231,11 @@ http://ps3u.ga/m3u/Lista01160621/latinos/espn+ar/index.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="DEPORTES",
 http://ps3u.ga/m3u/Lista01160621/latinos/tyc/index.m3u8
+
+
+
+
+
+
+
+
