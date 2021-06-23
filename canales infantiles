@@ -1,10 +1,10 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/f9c5bd779f169992e1f8635bdcab1efa.png" group-title="INFANTILES", BABY TV
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/f9c5bd779f169992e1f8635bdcab1efa.png" group-title="INFANTIL", BABY TV
 http://ps3u.ga/m3u/Lista02160621/babytv/index.m3u8
 
-#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/f9c5bd779f169992e1f8635bdcab1efa.png" group-title="INFANTILES", BABY TV opcion 2
+#EXTINF:-1 tvg-logo="http://plan.sockettv.online:25461/images/f9c5bd779f169992e1f8635bdcab1efa.png" group-title="INFANTIL", BABY TV opcion 2
 http://plan.sockettv.online:25461/marcos464887/2zATpvy5zr/488
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlMjY1YrC-ULKY3ry5XmzGK7ybBYwcN1M88w&usqp=CAU" group-title="INFANTIL", PAKA PAKA  22.2
